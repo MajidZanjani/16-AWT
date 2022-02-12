@@ -3,7 +3,7 @@ package javaAWT;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
-import javaAWT.MyAWT.MyAWTExample;
+import javaAWT.MyFirstAWT.MyAWTExample;
 
 public class MyActionListener implements ActionListener {
 

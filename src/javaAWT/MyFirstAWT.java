@@ -6,7 +6,7 @@ import java.awt.Label;
 import java.awt.TextField;
 import java.io.Closeable;
 
-public class MyAWT {
+public class MyFirstAWT {
 	
 	static class MyAWTExample extends Frame {
 		
